@@ -85,7 +85,7 @@ img {
 
 /* Home */
 .home {
-  height: 400px;
+  height: 450px;
   background-color: var(--primary-color);
   color: #0E4A6C;
   position: relative;
@@ -149,7 +149,7 @@ img {
 .home::after {
   content: '';
   position: absolute;
-  height: 95px;
+  height: 85px;
   bottom: -70px;
   right: 0;
   left: 0;

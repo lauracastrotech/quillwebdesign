@@ -1,5 +1,6 @@
 Programmer: Laura Castro
 Date: January 2023
+* Added Javascript September 27, 2023
 
 ![Screenshot](landing_page.png)
 

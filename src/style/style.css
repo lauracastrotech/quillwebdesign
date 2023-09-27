@@ -53,7 +53,9 @@ img {
 
 .navbar .container {
   max-height: 150px;
-  background-color: white;
+  background-color: grey;
+  width: 100%;
+
 }
 
 .navbar ul {
@@ -327,7 +329,6 @@ img {
  .navbar {
     height: 100px;
   }
-  
   .navbar .flex {
     flex-direction: column;
   }

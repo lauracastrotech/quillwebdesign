@@ -1,6 +1,9 @@
 Programmer: Laura Castro
 Date: January 2023
 
+![image]([https://github.com/lauracastrotech/quillwebdesign/assets/104328428/294813d3-f915-46c7-91e5-d14b1530a8a](https://github.com/lauracastrotech/quillwebdesign/blob/main/landing_page.png)9)
+
+
 ## Purpose: 
 Quill Web design is responsive website to promote and sell web building services. Continue to review this document to learn about major functions, dependencies, deployment, and contact information.
 

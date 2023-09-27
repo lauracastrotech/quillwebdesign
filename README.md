@@ -1,7 +1,7 @@
 Programmer: Laura Castro
 Date: January 2023
 
-![image]([https://github.com/lauracastrotech/quillwebdesign/assets/104328428/294813d3-f915-46c7-91e5-d14b1530a8a](https://github.com/lauracastrotech/quillwebdesign/blob/main/landing_page.png)9)
+![Screenshot]([https://github.com/lauracastrotech/quillwebdesign/assets/104328428/294813d3-f915-46c7-91e5-d14b1530a8a](https://github.com/lauracastrotech/quillwebdesign/blob/main/landing_page.png)9)
 
 
 ## Purpose: 
